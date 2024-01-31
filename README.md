@@ -2,8 +2,8 @@ This is the accompanying repository for the PAM 2024 paper "Following the Data
 Trail: An Analysis of IXP Dependencies". Use the three buttons above to access:
 
 1. Data to reproduce the plots and analysis from the paper.
-1. Archive data (in form of CSV files) for bulk data downloads.
-1. An API that provides more fine-grained access to the data.
+1. Weekly updated archive data (in form of CSV files) for bulk data downloads.
+1. An API that provides more fine-grained access to the weekly data.
 
 ## Data Format (Archive)
 
